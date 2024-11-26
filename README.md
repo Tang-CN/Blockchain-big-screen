@@ -12,6 +12,7 @@
   区块链大数据可视化大屏项目
 - 记录一下之前实习代码
 - 效果在\src\assets\chian.gif
+  ![效果](https://github.com/Tang-CN/Blockchain-big-screen/blob/main/src/assets/chain.gif)
 
 ## 技术栈
 
